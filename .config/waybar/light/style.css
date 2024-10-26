@@ -1,0 +1,131 @@
+/* General bar styling */
+* {
+  border: none;
+  font-family: 'Hack Nerd Font';
+  font-size: 16px;
+  font-feature-settings: '"zero", "ss01", "ss02", "ss03", "ss04", "ss05", "cv31"';
+}
+
+window#waybar {
+  background: transparent;
+}
+
+/* Left modules (workspaces) */
+#custom-nix, #sway-workspaces,#custom-themes,#custom-cava-internal {
+  background-color: #c8d0e0;
+  color: #3c3c5c;
+}
+#workspaces{
+  border-radius: 0 15px 15px 0;
+}
+#workspaces button {
+  all: initial;
+  padding-left: 9px;
+  padding-right: 9px;
+  margin-left: 6px;
+  margin-right: 6px;
+  min-width: 0;
+  color: #3c3c5c;
+}
+#workspaces button.focused{
+  color: #000000;
+}
+#custom-cava-internal{
+  margin-left: 10px;
+  border-radius: 15px;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: 10px
+}
+#mpd.2,#mpd.3,#mpd.4,#mpd{
+  margin-left: 0;
+  margin-right: 0;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+#mpd.2{
+  border-radius: 15px 0 0 15px;
+}
+#mpd{
+  margin-right: 10px;
+}
+#custom-nix {
+  font-size: 20px;
+  margin-left: 15px;
+  color: #3c3c5c;
+  background: #c8d0e0;
+}
+widget > * {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+
+.modules-left > widget > * {
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 8px;
+  padding-right: 8px;
+  background-color: #c8d0e0;
+  color: #3c3c5c;
+}
+
+.modules-left > widget:first-child > * {
+  border-radius: 15px 0 0 15px;
+}
+
+.modules-left > widget:last-child > * {
+  margin-right: 6px;
+  border-radius: 0 15px 15px 0;
+}
+
+.modules-right > widget > * {
+  padding-left: 8px;
+  padding-right: 8px;
+  margin-left: 0;
+  margin-right: 0;
+  color: #3c3c5c;
+  background-color: #c8d0e0;
+}
+
+.modules-right > widget:first-child > * {
+  border-radius: 15px 0 0 15px;
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.modules-right > widget:last-child > * {
+  border-radius: 0 15px 15px 0;
+  margin-right: 16px;
+  margin-left: 0;
+}
+
+.modules-center {
+  background: #c8d0e0;
+  color: #3c3c5c;
+  margin-left: 0px;
+  margin-right: 0px;
+  border-radius: 15px;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
+#clock,#workspaces button, #pulseaudio, #network,#memory,#cpu,#custom-nix,#custom-keyboard-layout,#custom-power,#custom-themes,#mpd.2,#mpd.3,#mpd.4,#mpd{
+  transition: 0.4s;
+}
+
+#clock:hover,#workspaces button:hover , #pulseaudio:hover, #network:hover,#memory:hover,#cpu:hover,#custom-nix:hover,#custom-keyboard-layout:hover,#custom-power:hover,#custom-themes:hover,#mpd.2:hover,#mpd.3:hover,#mpd.4:hover,#mpd:hover{
+  color: #000000;
+ }
+
+label:focus {
+  background: #d8dee9;
+}
+
+tooltip {
+  border-radius: 15px;
+  background: #c8d0e0;
+}
+
+tooltip label {
+  color: #3c3c5c;
+}

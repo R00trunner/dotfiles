@@ -1,0 +1,160 @@
+{
+  "layer": "top",
+  "position": "top",
+  "height": 35,
+  "modules-left": ["custom/nix","sway/workspaces","custom/cava-internal","mpd#2","mpd#3","mpd#4","mpd"],
+  "modules-center": ["clock","custom/themes"],
+  "modules-right": ["cpu", "memory","custom/keyboard-layout","network","pulseaudio","custom/power"],
+  "separator": " ",
+  "margin-top": 10,
+  "margin-bottom": 10,
+  "custom/nix": {
+    "format": " ",
+    "tooltip": false,
+    "on-click": "rofi -show drun"
+   },
+  "custom/themes": {
+    "format": " ",
+    "tooltip": false,
+    "on-click": "bash $HOME/.config/waybar/scripts/theme.sh"
+   },
+    "custom/cava-internal": {
+    "exec": "sh ~/.config/waybar/scripts/Cava.sh",
+    "format": "{}",
+    "tooltip": false,
+    "on-click": "swaymsg reload & pkill waybar & waybar",
+    "layer": "below",
+    "output": "all"
+  },
+  "sway/workspaces": {
+    "format": "{icon}",
+    "disable-scroll": true,
+    "all-outputs": true,
+    "format-icons": {
+        "focused": "",
+        "default": ""
+    }
+  },
+    "pulseaudio": {
+    "format": "{icon} {volume}% {format_source}",
+    "format-bluetooth": "{volume}% {icon} {format_source}",
+    "format-bluetooth-muted": "󰝟 {icon} {format_source}",
+    "format-muted": "󰝟 {format_source}",
+    "format-source": " {volume}%",
+    "format-source-muted": "",
+    "format-icons": {
+      "hands-free": "󱠰",
+      "headset": "󰋎",
+      "phone": "",
+      "portable": "",
+      "car": "",
+      "default": ["", "", "󰕾", "󰕾", "󰕾", "", "", ""]
+    },
+    "max-volume": 100,
+    "on-click": "pavucontrol"
+  },
+
+  "cpu": {
+    "format": "  {usage}%",
+    "interval": 3,
+    "on-click": "alacritty -e htop"
+  },
+
+  "memory": {
+    "format": " {used} MB",
+    "interval": 10,
+    "on-click": "alacritty -e htop"
+  },
+    "network": {
+        "format-wifi": "   {essid}",
+        "format-ethernet": "{ipaddr}/{cidr} ",
+        "tooltip-format": "{ifname} via {gwaddr} ",
+        "format-linked": "{ifname} (No IP) ",
+        "format-disconnected": "Disconnected ⚠",
+        "format-alt": "{ifname}: {ipaddr}/{cidr}"
+    },
+
+  "clock": {
+    "format": "{:%H:%M  (%a %d %b) 󰃰} ",
+    "interval": 60,
+    "format-alt":"{:%I:%M %p (%Y-%m-%d) 󰃰 }" 
+  },
+"backlight": {
+    "format": "{percent}% {icon}",
+    "format-icons": ["", "", "", "", "", "", "", "", ""],
+    "on-scroll-up": "light -A 1",
+    "on-scroll-down": "light -U 1"
+  },
+  "battery": {
+    "states": {
+      "warning": 30,
+      "critical": 15
+    },
+    "format": "{capacity}% {icon}",
+    "format-charging": "{capacity}% 󰢝",
+    "format-plugged": "{capacity}% ",
+    "format-alt": "{time} {icon}",
+    "format-icons": ["", "", "", "", ""]
+  },
+    "custom/keyboard-layout": {
+    "exec": "swaymsg -t get_inputs | grep -m1 'xkb_active_layout_name' | cut -d '\"' -f4",
+    // Interval set only as a fallback, as the value is updated by signal
+    "interval": 1,
+    "format": "", // Icon: keyboard
+    "format-alt": "{}",
+    // Signal sent by Sway key binding (~/.config/sway/key-bindings)
+    "signal": 1, // SIGHUP
+    "tooltip": false
+  },
+    "custom/power": {
+    "format": "⏻ ",
+    "on-click": "rofi -show power-menu -modi power-menu:/home/$USER/.config/scripts/powermenu.sh",
+    "tooltip": false
+  },
+"mpd": {
+    "tooltip": true,
+    "tooltip-format": "{artist} - {album} - {title} - Total Time : {totalTime:%M:%S}",
+    "format": " {elapsedTime:%M:%S}",
+    "format-disconnected": "⚠  Disconnected",
+    "format-stopped": " Not Playing",
+    "on-click": "mpc toggle",
+    "state-icons": {
+      "playing": "",
+      "paused": ""
+    }
+  },
+  "mpd#2": {
+    "format": "",
+    "format-disconnected": "",
+    "format-paused": "",
+    "format-stopped": "",
+    // Commands to execute on events
+    "on-click": "mpc -q pause && mpc -q prev && mpc -q start"
+  },
+  "mpd#3": {
+    "interval": 1,
+    "format": "{stateIcon}",
+    "format-disconnected": "",
+    "format-paused": "{stateIcon}",
+    "format-stopped": "",
+    "state-icons": {
+      "paused": "",
+      "playing": ""
+    },
+    // Commands to execute on events
+    "on-click": "mpc toggle"
+  },
+  "mpd#4": {
+    "format": "",
+    "format-disconnected": "",
+    "format-paused": "",
+    "format-stopped": "",
+    // Commands to execute on events
+    "on-click": "mpc -q pause && mpc -q next && mpc -q start"
+  },
+  "custom/mpd": {
+    "format": " {title} - {artist}",
+    "interval": 5,
+    "exec": "mpc current --format='\"title\":\"%title%\",\"artist\":\"%artist%\"'"
+  }
+   }
