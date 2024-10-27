@@ -1,0 +1,2647 @@
+info_begin
+format: 2
+mpd_version: 0.23.15
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumSort
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: OriginalDate
+tag: Composer
+tag: ComposerSort
+tag: Performer
+tag: Conductor
+tag: Work
+tag: Movement
+tag: MovementNumber
+tag: Ensemble
+tag: Location
+tag: Grouping
+tag: Disc
+tag: Label
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+tag: MUSICBRAINZ_RELEASETRACKID
+tag: MUSICBRAINZ_WORKID
+info_end
+directory: playlists
+mtime: 1728763288
+begin: playlists
+song_begin: Back In Black(MP3_160K).mp3
+Time: 255.504000
+Artist: ﻿AC/DC
+Title: ﻿Back In Black
+Album: ﻿AC/DC
+Format: 48000:24:2
+mtime: 1728068227
+song_end
+song_begin: Hells Bells(MP3_160K).mp3
+Time: 312.312000
+Artist: ﻿AC/DC
+Title: ﻿Hells Bells
+Album: ﻿AC/DC
+Format: 48000:24:2
+mtime: 1728068289
+song_end
+song_begin: Highway to Hell(MP3_160K).mp3
+Time: 208.416000
+Artist: ﻿AC/DC
+Title: ﻿Highway to Hell
+Album: ﻿AC/DC
+Format: 48000:24:2
+mtime: 1727993046
+song_end
+song_begin: Thunderstruck(MP3_160K).mp3
+Time: 292.896000
+Artist: ﻿AC/DC
+Title: ﻿Thunderstruck
+Album: ﻿AC/DC
+Format: 48000:24:2
+mtime: 1727993369
+song_end
+song_begin: R U Mine_(MP3_160K).mp3
+Time: 201.744000
+Artist: ﻿Arctic Monkeys
+Title: ﻿R U Mine?
+Album: ﻿Arctic Monkeys
+Format: 48000:24:2
+mtime: 1727993171
+song_end
+song_begin: NOSTYLIST(MP3_160K)_1.mp3
+Time: 180.000000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿NOSTYLIST
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726853047
+song_end
+song_begin: Jealous(MP3_160K).mp3
+Time: 122.352000
+Artist: ﻿Eyedress
+Title: ﻿Jealous
+Album: ﻿Eyedress
+Format: 48000:24:2
+mtime: 1727479479
+song_end
+song_begin: Everlong(MP3_160K).mp3
+Time: 250.560000
+Artist: ﻿Foo Fighters
+Title: ﻿Everlong
+Album: ﻿Foo Fighters
+Format: 48000:24:2
+mtime: 1727992878
+song_end
+song_begin: Like That(MP3_160K).mp3
+Time: 267.720000
+Artist: ﻿Future, Metro Boomin, & Kendrick Lamar
+Title: ﻿Like That
+Album: ﻿Future, Metro Boomin, & Kendrick Lamar
+Format: 48000:24:2
+mtime: 1727964802
+song_end
+song_begin: Brain Stew(MP3_160K).mp3
+Time: 193.008000
+Artist: ﻿Green Day
+Title: ﻿Brain Stew
+Album: ﻿Green Day
+Format: 48000:24:2
+mtime: 1727993116
+song_end
+song_begin: Sweet Child O_ Mine(MP3_160K).mp3
+Time: 356.088000
+Artist: ﻿Guns N' Roses - Topic
+Title: ﻿Sweet Child O' Mine
+Album: ﻿Guns N' Roses - Topic
+Format: 48000:24:2
+mtime: 1728068885
+song_end
+song_begin: The Trooper (2015 Remaster)(MP3_160K).mp3
+Time: 252.744000
+Artist: ﻿Iron Maiden - Topic
+Title: ﻿The Trooper (2015 Remaster)
+Album: ﻿Iron Maiden - Topic
+Format: 48000:24:2
+mtime: 1728068608
+song_end
+song_begin: Bound 2(MP3_160K).mp3
+Time: 229.152000
+Artist: ﻿Kanye West - Topic
+Title: ﻿Bound 2
+Album: ﻿Kanye West - Topic
+Format: 48000:24:2
+mtime: 1726947220
+song_end
+song_begin: overseas(MP3_160K).mp3
+Time: 141.048000
+Artist: ﻿Ken Carson
+Title: ﻿overseas
+Album: ﻿Ken Carson
+Format: 48000:24:2
+mtime: 1727810533
+song_end
+song_begin: ss (Official Audio)(MP3_160K).mp3
+Time: 184.464000
+Artist: ﻿Ken Carson
+Title: ﻿ss (Official Audio)
+Album: ﻿Ken Carson
+Format: 48000:24:2
+mtime: 1727810486
+song_end
+song_begin: i need u(MP3_160K).mp3
+Time: 148.776000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿i need u
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767687
+song_end
+song_begin: Jennifer_s Body(MP3_160K).mp3
+Time: 158.520000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Jennifer’s Body
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767621
+song_end
+song_begin: Yale(MP3_160K).mp3
+Time: 106.536000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Yale
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726852994
+song_end
+song_begin: LANCEY OR LANCEY(MP3_160K).mp3
+Time: 187.896000
+Artist: ﻿Lancey Foux - Topic
+Title: ﻿LANCEY OR LANCEY
+Album: ﻿Lancey Foux - Topic
+Format: 48000:24:2
+mtime: 1726853144
+song_end
+song_begin: 500lbs(MP3_160K).mp3
+Time: 144.408000
+Artist: ﻿Lil Tecca - Topic
+Title: ﻿500lbs
+Album: ﻿Lil Tecca - Topic
+Format: 48000:24:2
+mtime: 1726853160
+song_end
+song_begin: Just Wanna Rock(MP3_160K).mp3
+Time: 123.912000
+Artist: ﻿Lil Uzi Vert
+Title: ﻿Just Wanna Rock
+Album: ﻿Lil Uzi Vert
+Format: 48000:24:2
+mtime: 1727621342
+song_end
+song_begin: 20 Min(MP3_160K).mp3
+Time: 220.608000
+Artist: ﻿Lil Uzi Vert - Topic
+Title: ﻿20 Min
+Album: ﻿Lil Uzi Vert - Topic
+Format: 48000:24:2
+mtime: 1726947123
+song_end
+song_begin: Fade To Black(MP3_160K).mp3
+Time: 417.240000
+Artist: ﻿Metallica
+Title: ﻿Fade To Black
+Album: ﻿Metallica
+Format: 48000:24:2
+mtime: 1728166309
+song_end
+song_begin: Fuel(MP3_160K).mp3
+Time: 269.808000
+Artist: ﻿Metallica
+Title: ﻿Fuel
+Album: ﻿Metallica
+Format: 48000:24:2
+mtime: 1728166306
+song_end
+song_begin: The Four Horsemen (Remastered)(MP3_160K).mp3
+Time: 432.552000
+Artist: ﻿Metallica - Topic
+Title: ﻿The Four Horsemen (Remastered)
+Album: ﻿Metallica - Topic
+Format: 48000:24:2
+mtime: 1728068811
+song_end
+song_begin: About A Girl(MP3_160K).mp3
+Time: 168.168000
+Artist: ﻿Nirvana
+Title: ﻿About A Girl
+Album: ﻿Nirvana
+Format: 48000:24:2
+mtime: 1727993479
+song_end
+song_begin: Smells Like Teen Spirit(MP3_160K).mp3
+Time: 301.920000
+Artist: ﻿Nirvana
+Title: ﻿Smells Like Teen Spirit
+Album: ﻿Nirvana
+Format: 48000:24:2
+mtime: 1727479809
+song_end
+song_begin: Magnolia(MP3_160K).mp3
+Time: 181.824000
+Artist: ﻿Playboi Carti
+Title: ﻿Magnolia
+Album: ﻿Playboi Carti
+Format: 48000:24:2
+mtime: 1726947226
+song_end
+song_begin: Playboi Carti - FlatBed Freestyle (Official Audio)(MP3_160K).mp3
+Time: 194.112000
+Artist: ﻿Playboi Carti
+Title: ﻿Playboi Carti - FlatBed Freestyle (Official Audio)
+Album: ﻿Playboi Carti
+Format: 48000:24:2
+mtime: 1727900927
+song_end
+song_begin: Control(MP3_160K).mp3
+Time: 197.808000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Control
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768521
+song_end
+song_begin: Location(MP3_160K).mp3
+Time: 168.792000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Location
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726852998
+song_end
+song_begin: Long Time (Intro)(MP3_160K).mp3
+Time: 211.776000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Long Time (Intro)
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726935148
+song_end
+song_begin: New Tank(MP3_160K).mp3
+Time: 89.760000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿New Tank
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768499
+song_end
+song_begin: R.I.P(MP3_160K).mp3
+Time: 192.048000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿R.I.P.
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726935483
+song_end
+song_begin: Sky(MP3_160K).mp3
+Time: 193.248000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Sky
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726852959
+song_end
+song_begin: wokeuplikethis_(MP3_160K).mp3
+Time: 235.536000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿wokeuplikethis*
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726935490
+song_end
+song_begin: Before I Forget(MP3_160K)_1.mp3
+Time: 264.384000
+Artist: ﻿Slipknot
+Title: ﻿Before I Forget
+Album: ﻿Slipknot
+Format: 48000:24:2
+mtime: 1728166589
+song_end
+song_begin: Duality(MP3_160K).mp3
+Time: 252.624000
+Artist: ﻿Slipknot
+Title: ﻿Duality
+Album: ﻿Slipknot
+Format: 48000:24:2
+mtime: 1727993395
+song_end
+song_begin: Wait and Bleed(MP3_160K).mp3
+Time: 147.840000
+Artist: ﻿Slipknot - Topic
+Title: ﻿Wait and Bleed
+Album: ﻿Slipknot - Topic
+Format: 48000:24:2
+mtime: 1728166493
+song_end
+song_begin: I Hate Everything About You(MP3_160K).mp3
+Time: 231.480000
+Artist: ﻿Three Days Grace
+Title: ﻿I Hate Everything About You
+Album: ﻿Three Days Grace
+Format: 48000:24:2
+mtime: 1728166748
+song_end
+song_begin: Never Too Late(MP3_160K).mp3
+Time: 209.352000
+Artist: ﻿Three Days Grace
+Title: ﻿Never Too Late
+Album: ﻿Three Days Grace
+Format: 48000:24:2
+mtime: 1728166770
+song_end
+song_begin: goosebumps(MP3_160K).mp3
+Time: 243.840000
+Artist: ﻿Travis Scott
+Title: ﻿goosebumps
+Album: ﻿Travis Scott
+Format: 48000:24:2
+mtime: 1727811910
+song_end
+song_begin: HIGHEST IN THE ROOM(MP3_160K).mp3
+Time: 175.728000
+Artist: ﻿Travis Scott
+Title: ﻿HIGHEST IN THE ROOM
+Album: ﻿Travis Scott
+Format: 48000:24:2
+mtime: 1727379252
+song_end
+song_begin: The Grinch(MP3_160K).mp3
+Time: 91.296000
+Artist: ﻿Trippie Redd - Topic
+Title: ﻿The Grinch
+Album: ﻿Trippie Redd - Topic
+Format: 48000:24:2
+mtime: 1726935508
+song_end
+end: playlists
+song_begin: oh no_ __ marina and the diamonds lyrics(MP3_160K).mp3
+Time: 182.664000
+Artist: ﻿1-800-LOVE-U
+Title: ﻿oh no! // marina and the diamonds lyrics
+Album: ﻿1-800-LOVE-U
+Format: 48000:24:2
+mtime: 1727036936
+song_end
+song_begin: Back In Black(MP3_160K).mp3
+Time: 255.504000
+Artist: ﻿AC/DC
+Title: ﻿Back In Black
+Album: ﻿AC/DC
+Format: 48000:24:2
+mtime: 1728068227
+song_end
+song_begin: Hells Bells(MP3_160K).mp3
+Time: 312.312000
+Artist: ﻿AC/DC
+Title: ﻿Hells Bells
+Album: ﻿AC/DC
+Format: 48000:24:2
+mtime: 1728068289
+song_end
+song_begin: Highway to Hell(MP3_160K).mp3
+Time: 208.416000
+Artist: ﻿AC/DC
+Title: ﻿Highway to Hell
+Album: ﻿AC/DC
+Format: 48000:24:2
+mtime: 1727993046
+song_end
+song_begin: Rock N Roll Train(MP3_160K).mp3
+Time: 261.528000
+Artist: ﻿AC/DC
+Title: ﻿Rock N Roll Train
+Album: ﻿AC/DC
+Format: 48000:24:2
+mtime: 1728068496
+song_end
+song_begin: Shoot to Thrill(MP3_160K).mp3
+Time: 317.448000
+Artist: ﻿AC/DC
+Title: ﻿Shoot to Thrill
+Album: ﻿AC/DC
+Format: 48000:24:2
+mtime: 1727993619
+song_end
+song_begin: Thunderstruck(MP3_160K).mp3
+Time: 292.896000
+Artist: ﻿AC/DC
+Title: ﻿Thunderstruck
+Album: ﻿AC/DC
+Format: 48000:24:2
+mtime: 1727993369
+song_end
+song_begin: You Shook Me All Night Long(MP3_160K).mp3
+Time: 210.192000
+Artist: ﻿AC/DC
+Title: ﻿You Shook Me All Night Long
+Album: ﻿AC/DC
+Format: 48000:24:2
+mtime: 1728068302
+song_end
+song_begin: Groovy songs to boost your mood _D - An upbeat playlist(MP3_160K).mp3
+Time: 1870.512000
+Artist: Aliven't
+Title: Groovy songs to boost your mood :D - An upbeat playlist
+Album: Aliven't
+Format: 48000:24:2
+mtime: 1702716116
+song_end
+song_begin: Songs that just give me happy feels _))) - A mood boosting playlist(MP3_160K).mp3
+Time: 2036.112000
+Artist: Aliven't
+Title: Songs that just give me happy feels :))) - A mood boosting playlist
+Album: Aliven't
+Format: 48000:24:2
+mtime: 1702716131
+song_end
+song_begin: Tokyo Ghoul - The best songs(MP3_160K).mp3
+Time: 1913.616000
+Artist: Anime and games !
+Title: Tokyo Ghoul - The best songs
+Album: Anime and games !
+Format: 48000:24:2
+mtime: 1706164700
+song_end
+song_begin: R U Mine_(MP3_160K).mp3
+Time: 201.744000
+Artist: ﻿Arctic Monkeys
+Title: ﻿R U Mine?
+Album: ﻿Arctic Monkeys
+Format: 48000:24:2
+mtime: 1727993171
+song_end
+song_begin: 505(MP3_160K).mp3
+Time: 253.608000
+Artist: ﻿Arctic Monkeys - Topic
+Title: ﻿505
+Album: ﻿Arctic Monkeys - Topic
+Format: 48000:24:2
+mtime: 1727035708
+song_end
+song_begin: Arabella(MP3_160K).mp3
+Time: 207.360000
+Artist: ﻿Arctic Monkeys - Topic
+Title: ﻿Arabella
+Album: ﻿Arctic Monkeys - Topic
+Format: 48000:24:2
+mtime: 1727036330
+song_end
+song_begin: Fluorescent Adolescent(MP3_160K).mp3
+Time: 183.912000
+Artist: ﻿Arctic Monkeys - Topic
+Title: ﻿Fluorescent Adolescent
+Album: ﻿Arctic Monkeys - Topic
+Format: 48000:24:2
+mtime: 1727035748
+song_end
+song_begin: I Wanna Be Yours(MP3_160K).mp3
+Time: 183.960000
+Artist: ﻿Arctic Monkeys - Topic
+Title: ﻿I Wanna Be Yours
+Album: ﻿Arctic Monkeys - Topic
+Format: 48000:24:2
+mtime: 1727035734
+song_end
+song_begin: Knee Socks(MP3_160K).mp3
+Time: 257.567000
+Artist: ﻿Arctic Monkeys - Topic
+Title: ﻿Knee Socks
+Album: ﻿Arctic Monkeys - Topic
+Format: 48000:24:2
+mtime: 1727036330
+song_end
+song_begin: Mad Sounds(MP3_160K).mp3
+Time: 215.016000
+Artist: ﻿Arctic Monkeys - Topic
+Title: ﻿Mad Sounds
+Album: ﻿Arctic Monkeys - Topic
+Format: 48000:24:2
+mtime: 1727035755
+song_end
+song_begin: Snap Out Of It(MP3_160K).mp3
+Time: 193.032000
+Artist: ﻿Arctic Monkeys - Topic
+Title: ﻿Snap Out Of It
+Album: ﻿Arctic Monkeys - Topic
+Format: 48000:24:2
+mtime: 1727035753
+song_end
+song_begin: Why_d You Only Call Me When You_re High_(MP3_160K).mp3
+Time: 161.136000
+Artist: ﻿Arctic Monkeys - Topic
+Title: ﻿Why'd You Only Call Me When You're High?
+Album: ﻿Arctic Monkeys - Topic
+Format: 48000:24:2
+mtime: 1727035705
+song_end
+song_begin: ------ ---- ------ -------------- ◉ ------------------ ------------------ ---------- --------(MP3_160K).mp3
+Time: 1247.856000
+Artist: asphyxxk
+Title: 𝐆𝐘𝐌 𝐈𝐒 𝐍𝐎𝐓 𝐖𝐀𝐈𝐓𝐈𝐍𝐆 ◉ 𝐁𝐑𝐀𝐙𝐈𝐋𝐈𝐀𝐍 𝐄𝐍𝐄𝐑𝐆𝐄𝐓𝐈𝐂 𝐏𝐇𝐎𝐍𝐊 𝟐𝟎𝟐𝟑
+Album: asphyxxk
+Format: 48000:24:2
+mtime: 1704575195
+song_end
+song_begin: die again - prodby668 (I was born for one reason_ killing that man)(MP3_160K).mp3
+Time: 175.152000
+Artist: astroph
+Title: die again - prodby668 (I was born for one reason, killing that man)
+Album: astroph
+Format: 48000:24:2
+mtime: 1708881675
+song_end
+song_begin: One Way_(MP3_160K).mp3
+Time: 166.968000
+Artist: ﻿Autumn! - Topic
+Title: ﻿One Way!
+Album: ﻿Autumn! - Topic
+Format: 48000:24:2
+mtime: 1726853103
+song_end
+song_begin: Still The Same(MP3_160K).mp3
+Time: 125.232000
+Artist: ﻿Autumn! - Topic
+Title: ﻿Still The Same
+Album: ﻿Autumn! - Topic
+Format: 48000:24:2
+mtime: 1726853099
+song_end
+song_begin: A Little Piece of Heaven(MP3_160K).mp3
+Time: 480.720000
+Artist: ﻿Avenged Sevenfold
+Title: ﻿A Little Piece of Heaven
+Album: ﻿Avenged Sevenfold
+Format: 48000:24:2
+mtime: 1728166200
+song_end
+song_begin: Afterlife(MP3_160K).mp3
+Time: 352.440000
+Artist: ﻿Avenged Sevenfold
+Title: ﻿Afterlife
+Album: ﻿Avenged Sevenfold
+Format: 48000:24:2
+mtime: 1728166089
+song_end
+song_begin: Gunslinger(MP3_160K).mp3
+Time: 251.544000
+Artist: ﻿Avenged Sevenfold
+Title: ﻿Gunslinger
+Album: ﻿Avenged Sevenfold
+Format: 48000:24:2
+mtime: 1728166137
+song_end
+song_begin: Seize the Day(MP3_160K).mp3
+Time: 334.080000
+Artist: ﻿Avenged Sevenfold
+Title: ﻿Seize the Day
+Album: ﻿Avenged Sevenfold
+Format: 48000:24:2
+mtime: 1728166025
+song_end
+song_begin: Shepherd of Fire(MP3_160K).mp3
+Time: 323.808000
+Artist: ﻿Avenged Sevenfold
+Title: ﻿Shepherd of Fire
+Album: ﻿Avenged Sevenfold
+Format: 48000:24:2
+mtime: 1727993980
+song_end
+song_begin: Never Let Go (Of Me)(MP3_160K).mp3
+Time: 414.600000
+Artist: Baltra - Topic
+Title: Never Let Go (Of Me)
+Album: Baltra - Topic
+Format: 48000:24:2
+mtime: 1702541441
+song_end
+song_begin: L O V E   L A I N(MP3_160K).mp3
+Time: 105.024000
+Artist: baowee
+Title: L O V E   L A I N
+Album: baowee
+Format: 48000:24:2
+mtime: 1701929646
+song_end
+song_begin: Beach Bunny - Sports (Official Audio)(MP3_160K).mp3
+Time: 164.256000
+Artist: ﻿Beach Bunny
+Title: ﻿Beach Bunny - Sports (Official Audio)
+Album: ﻿Beach Bunny
+Format: 48000:24:2
+mtime: 1727036918
+song_end
+song_begin: Space Song(MP3_160K).mp3
+Time: 320.472000
+Artist: ﻿Beach House - Topic
+Title: ﻿Space Song
+Album: ﻿Beach House - Topic
+Format: 48000:24:2
+mtime: 1727036962
+song_end
+song_begin: Tweakin_ Together(MP3_160K).mp3
+Time: 126.696000
+Artist: ﻿Bktherula - Topic
+Title: ﻿Tweakin' Together
+Album: ﻿Bktherula - Topic
+Format: 48000:24:2
+mtime: 1726853078
+song_end
+song_begin: UH HUH(MP3_160K).mp3
+Time: 161.928000
+Artist: ﻿Bktherula - Topic
+Title: ﻿UH HUH
+Album: ﻿Bktherula - Topic
+Format: 48000:24:2
+mtime: 1726853052
+song_end
+song_begin: Paranoid (2009 Remaster)(MP3_160K).mp3
+Time: 167.736000
+Artist: ﻿Black Sabbath
+Title: ﻿Paranoid (2009 Remaster)
+Album: ﻿Black Sabbath
+Format: 48000:24:2
+mtime: 1728068513
+song_end
+song_begin: Yot Club - YKWIM_ (Lyrics)(MP3_160K).mp3
+Time: 212.592000
+Artist: ﻿Blissful Mind
+Title: ﻿Yot Club - YKWIM? (Lyrics)
+Album: ﻿Blissful Mind
+Format: 48000:24:2
+mtime: 1727035877
+song_end
+song_begin: tame impala - let it happen (but it_s only the best part)(MP3_160K).mp3
+Time: 140.856000
+Artist: caesarMusic
+Title: tame impala - let it happen (but it's only the best part)
+Album: caesarMusic
+Format: 48000:24:2
+mtime: 1702667362
+song_end
+song_begin: Tek It(MP3_160K).mp3
+Time: 191.832000
+Artist: ﻿Cafuné
+Title: ﻿Tek It
+Album: ﻿Cafuné
+Format: 48000:24:2
+mtime: 1727379162
+song_end
+song_begin: Mac DeMarco __ _Freaking Out The Neighborhood_(MP3_160K).mp3
+Time: 174.696000
+Artist: ﻿CapturedTracks
+Title: ﻿Mac DeMarco // "Freaking Out The Neighborhood"
+Album: ﻿CapturedTracks
+Format: 48000:24:2
+mtime: 1727646526
+song_end
+song_begin: Mac DeMarco __ _My Kind Of Woman_(MP3_160K).mp3
+Time: 197.208000
+Artist: ﻿CapturedTracks
+Title: ﻿Mac DeMarco // "My Kind Of Woman"
+Album: ﻿CapturedTracks
+Format: 48000:24:2
+mtime: 1727035933
+song_end
+song_begin: Mac DeMarco __ No Other Heart (Official Audio)(MP3_160K).mp3
+Time: 173.136000
+Artist: ﻿CapturedTracks
+Title: ﻿Mac DeMarco // No Other Heart (Official Audio)
+Album: ﻿CapturedTracks
+Format: 48000:24:2
+mtime: 1727036921
+song_end
+song_begin: Juliet by Cavetown (Official Audio) _ Animal Kingdom(MP3_160K).mp3
+Time: 279.000000
+Artist: ﻿cavetown
+Title: ﻿Juliet by Cavetown (Official Audio) | Animal Kingdom
+Album: ﻿cavetown
+Format: 48000:24:2
+mtime: 1727036942
+song_end
+song_begin: agenda(MP3_160K).mp3
+Time: 99.168000
+Artist: ﻿che - Topic
+Title: ﻿agenda
+Album: ﻿che - Topic
+Format: 48000:24:2
+mtime: 1726853191
+song_end
+song_begin: euphoria(MP3_160K).mp3
+Time: 169.632000
+Artist: ﻿che - Topic
+Title: ﻿euphoria
+Album: ﻿che - Topic
+Format: 48000:24:2
+mtime: 1726853552
+song_end
+song_begin: TV Girl - Blue Hair(MP3_160K).mp3
+Time: 217.152000
+Artist: ﻿chillwavve
+Title: ﻿TV Girl - Blue Hair
+Album: ﻿chillwavve
+Format: 48000:24:2
+mtime: 1727295746
+song_end
+song_begin: TV Girl - For You(MP3_160K).mp3
+Time: 215.472000
+Artist: ﻿chillwavve
+Title: ﻿TV Girl - For You
+Album: ﻿chillwavve
+Format: 48000:24:2
+mtime: 1727295748
+song_end
+song_begin: TV Girl - Heaven is a Bedroom(MP3_160K).mp3
+Time: 278.976000
+Artist: ﻿chillwavve
+Title: ﻿TV Girl - Heaven is a Bedroom
+Album: ﻿chillwavve
+Format: 48000:24:2
+mtime: 1727278410
+song_end
+song_begin: Serial Experiments Lain - Duvet Extended(MP3_160K).mp3
+Time: 924.984000
+Artist: Chronobreak
+Title: Serial Experiments Lain - Duvet Extended
+Album: Chronobreak
+Format: 48000:24:2
+mtime: 1705645661
+song_end
+song_begin: Fluxxwave(MP3_160K).mp3
+Time: 150.456000
+Artist: Clovis Reyes - Topic
+Title: Fluxxwave
+Album: Clovis Reyes - Topic
+Format: 48000:24:2
+mtime: 1702533650
+song_end
+song_begin: Tell Em(MP3_160K).mp3
+Time: 180.384000
+Artist: ﻿Cochise & $NOT
+Title: ﻿Tell Em
+Album: ﻿Cochise & $NOT
+Format: 48000:24:2
+mtime: 1727965554
+song_end
+song_begin: Conan Gray - Heather (Official Lyric Video)(MP3_160K).mp3
+Time: 198.888000
+Artist: ﻿ConanGrayVEVO
+Title: ﻿Conan Gray - Heather (Official Lyric Video)
+Album: ﻿ConanGrayVEVO
+Format: 48000:24:2
+mtime: 1727035949
+song_end
+song_begin: Tek It X Tek It (2024 Remastered)(MP3_160K).mp3
+Time: 173.400000
+Artist: ﻿cxtik
+Title: ﻿Tek It X Tek It (2024 Remastered)
+Album: ﻿cxtik
+Format: 48000:24:2
+mtime: 1727479858
+song_end
+song_begin: _laufey - From The Start (Lyrics)(MP3_160K).mp3
+Time: 171.360000
+Artist: ﻿Dan Music
+Title: ﻿@laufey - From The Start (Lyrics)
+Album: ﻿Dan Music
+Format: 48000:24:2
+mtime: 1727277609
+song_end
+song_begin: ALLURE(MP3_160K).mp3
+Time: 171.672000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿ALLURE
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726768017
+song_end
+song_begin: Dover Street Market(MP3_160K).mp3
+Time: 142.992000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿Dover Street Market
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726767838
+song_end
+song_begin: F.U.N(MP3_160K).mp3
+Time: 101.832000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿F.U.N
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726768026
+song_end
+song_begin: FAKENGGAS(MP3_160K).mp3
+Time: 180.000000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿FAKENGGAS
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726767999
+song_end
+song_begin: if looks could kill(MP3_160K).mp3
+Time: 194.232000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿if looks could kill
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726853052
+song_end
+song_begin: JETLGGD(MP3_160K).mp3
+Time: 116.544000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿JETLGGD
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726767836
+song_end
+song_begin: Miley Cyrus(MP3_160K).mp3
+Time: 162.552000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿Miley Cyrus
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726768029
+song_end
+song_begin: NEVEREVER(MP3_160K).mp3
+Time: 144.000000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿NEVEREVER
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726768012
+song_end
+song_begin: NOSTYLIST(MP3_160K)_1.mp3
+Time: 180.000000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿NOSTYLIST
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726853047
+song_end
+song_begin: NOSTYLIST(MP3_160K).mp3
+Time: 180.000000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿NOSTYLIST
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726767999
+song_end
+song_begin: Oh Yeah(MP3_160K).mp3
+Time: 117.408000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿Oh Yeah
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726768027
+song_end
+song_begin: TURNINUP(MP3_160K).mp3
+Time: 191.016000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿TURNINUP
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726767999
+song_end
+song_begin: VETERAN(MP3_160K).mp3
+Time: 176.328000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿VETERAN
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726768017
+song_end
+song_begin: wagwan(MP3_160K).mp3
+Time: 139.464000
+Artist: ﻿Destroy Lonely - Topic
+Title: ﻿wagwan
+Album: ﻿Destroy Lonely - Topic
+Format: 48000:24:2
+mtime: 1726767838
+song_end
+song_begin: The Rare Occasions - Notion(MP3_160K).mp3
+Time: 194.952000
+Artist: ﻿Dol drums
+Title: ﻿The Rare Occasions - Notion
+Album: ﻿Dol drums
+Format: 48000:24:2
+mtime: 1727035908
+song_end
+song_begin: BANDIT(MP3_160K).mp3
+Time: 147.768000
+Artist: ﻿Don Toliver
+Title: ﻿BANDIT
+Album: ﻿Don Toliver
+Format: 48000:24:2
+mtime: 1727965051
+song_end
+song_begin: IDGAF(MP3_160K).mp3
+Time: 260.112000
+Artist: ﻿Drake - Topic
+Title: ﻿IDGAF
+Album: ﻿Drake - Topic
+Format: 48000:24:2
+mtime: 1726947212
+song_end
+song_begin: Dream_ Ivory - welcome and goodbye (Official Video)(MP3_160K).mp3
+Time: 142.296000
+Artist: ﻿DreamIvoryVEVO
+Title: ﻿Dream, Ivory - welcome and goodbye (Official Video)
+Album: ﻿DreamIvoryVEVO
+Format: 48000:24:2
+mtime: 1727646511
+song_end
+song_begin: miki matsubara-stay With Me(MP3_160K).mp3
+Time: 312.360000
+Artist: ﻿Epic Music
+Title: ﻿miki matsubara-stay With Me
+Album: ﻿Epic Music
+Format: 48000:24:2
+mtime: 1727277721
+song_end
+song_begin: Jealous(MP3_160K).mp3
+Time: 122.352000
+Artist: ﻿Eyedress
+Title: ﻿Jealous
+Album: ﻿Eyedress
+Format: 48000:24:2
+mtime: 1727479479
+song_end
+song_begin: EYEDRESS - JEALOUS (OFFICIAL VIDEO)(MP3_160K).mp3
+Time: 122.352000
+Artist: ﻿EYEDRESS
+Title: ﻿EYEDRESS - JEALOUS (OFFICIAL VIDEO)
+Album: ﻿EYEDRESS
+Format: 48000:24:2
+mtime: 1727646491
+song_end
+song_begin: Everlong(MP3_160K).mp3
+Time: 250.560000
+Artist: ﻿Foo Fighters
+Title: ﻿Everlong
+Album: ﻿Foo Fighters
+Format: 48000:24:2
+mtime: 1727992878
+song_end
+song_begin: twenty one pilots_ Stressed Out [OFFICIAL VIDEO](MP3_160K).mp3
+Time: 225.240000
+Artist: ﻿Fueled By Ramen
+Title: ﻿twenty one pilots: Stressed Out [OFFICIAL VIDEO]
+Album: ﻿Fueled By Ramen
+Format: 48000:24:2
+mtime: 1727035870
+song_end
+song_begin: Like That(MP3_160K).mp3
+Time: 267.720000
+Artist: ﻿Future, Metro Boomin, & Kendrick Lamar
+Title: ﻿Like That
+Album: ﻿Future, Metro Boomin, & Kendrick Lamar
+Format: 48000:24:2
+mtime: 1727964802
+song_end
+song_begin: I Choose Violence(MP3_160K).mp3
+Time: 159.024000
+Artist: ﻿Glokk40Spaz - Topic
+Title: ﻿I Choose Violence
+Album: ﻿Glokk40Spaz - Topic
+Format: 48000:24:2
+mtime: 1726853546
+song_end
+song_begin: Feel Good Inc(MP3_160K).mp3
+Time: 222.648000
+Artist: ﻿Gorillaz
+Title: ﻿Feel Good Inc.
+Album: ﻿Gorillaz
+Format: 48000:24:2
+mtime: 1727992926
+song_end
+song_begin: Brain Stew(MP3_160K).mp3
+Time: 193.008000
+Artist: ﻿Green Day
+Title: ﻿Brain Stew
+Album: ﻿Green Day
+Format: 48000:24:2
+mtime: 1727993116
+song_end
+song_begin: fukumean(MP3_160K).mp3
+Time: 125.040000
+Artist: ﻿Gunna - Topic
+Title: ﻿fukumean
+Album: ﻿Gunna - Topic
+Format: 48000:24:2
+mtime: 1726947198
+song_end
+song_begin: Sweet Child O_ Mine(MP3_160K).mp3
+Time: 356.088000
+Artist: ﻿Guns N' Roses - Topic
+Title: ﻿Sweet Child O' Mine
+Album: ﻿Guns N' Roses - Topic
+Format: 48000:24:2
+mtime: 1728068885
+song_end
+song_begin: Swing Lynn (Official Audio)(MP3_160K).mp3
+Time: 321.432000
+Artist: ﻿Harmless
+Title: ﻿Swing Lynn (Official Audio)
+Album: ﻿Harmless
+Format: 48000:24:2
+mtime: 1727646516
+song_end
+song_begin: anybody can find love (except you.)(MP3_160K).mp3
+Time: 131.376000
+Artist: ﻿hkmori - Topic
+Title: ﻿anybody can find love (except you.)
+Album: ﻿hkmori - Topic
+Format: 48000:24:2
+mtime: 1723814670
+song_end
+song_begin: 5_RE(MP3_160K).mp3
+Time: 158.856000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿5!RE
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768048
+song_end
+song_begin: 55 Lifestyle(MP3_160K).mp3
+Time: 82.800000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿55 Lifestyle
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768489
+song_end
+song_begin: 5unna (feat. R5 Homixide)(MP3_160K).mp3
+Time: 100.416000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿5unna (feat. R5 Homixide)
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768483
+song_end
+song_begin: ADHD(MP3_160K).mp3
+Time: 150.432000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿ADHD
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768043
+song_end
+song_begin: Can_t Go(MP3_160K).mp3
+Time: 120.072000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿Can't Go
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768469
+song_end
+song_begin: Drakon _(MP3_160K).mp3
+Time: 106.680000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿Drakon !
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768476
+song_end
+song_begin: Holler_(MP3_160K).mp3
+Time: 102.552000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿Holler!
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768483
+song_end
+song_begin: Lifestyle(MP3_160K).mp3
+Time: 137.160000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿Lifestyle
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768469
+song_end
+song_begin: Stunt(MP3_160K).mp3
+Time: 178.296000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿Stunt
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768487
+song_end
+song_begin: TF_(MP3_160K).mp3
+Time: 150.864000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿TF!
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768474
+song_end
+song_begin: Uzi Work(MP3_160K).mp3
+Time: 105.960000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿Uzi Work
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768041
+song_end
+song_begin: V-Friends(MP3_160K).mp3
+Time: 105.720000
+Artist: ﻿Homixide Gang - Topic
+Title: ﻿V-Friends
+Album: ﻿Homixide Gang - Topic
+Format: 48000:24:2
+mtime: 1726768476
+song_end
+song_begin: PHONK É O C_R_LH0 - VOL.1 - ( Slowed )(MP3_160K).mp3
+Time: 159.432000
+Artist: Ikeraus 🎼
+Title: PHONK É O C@R*LH0 - VOL.1 - ( Slowed )
+Album: Ikeraus 🎼
+Format: 48000:24:2
+mtime: 1702334677
+song_end
+song_begin: new person_ same old mistakes (sped up)(MP3_160K).mp3
+Time: 364.296000
+Artist: ﻿𝖎𝖑𝖚𝖛𝖒𝖇𝖆𝖑𝖎.𝖒𝖕3
+Title: ﻿new person, same old mistakes (sped up)
+Album: ﻿𝖎𝖑𝖚𝖛𝖒𝖇𝖆𝖑𝖎.𝖒𝖕3
+Format: 48000:24:2
+mtime: 1718179202
+song_end
+song_begin: The Trooper (2015 Remaster)(MP3_160K).mp3
+Time: 252.744000
+Artist: ﻿Iron Maiden - Topic
+Title: ﻿The Trooper (2015 Remaster)
+Album: ﻿Iron Maiden - Topic
+Format: 48000:24:2
+mtime: 1728068608
+song_end
+song_begin: C_mere_(MP3_160K).mp3
+Time: 77.016000
+Artist: ﻿Jace! - Topic
+Title: ﻿C'mere!
+Album: ﻿Jace! - Topic
+Format: 48000:24:2
+mtime: 1726853176
+song_end
+song_begin: Mind Right(MP3_160K).mp3
+Time: 112.368000
+Artist: ﻿Jace! - Topic
+Title: ﻿Mind Right
+Album: ﻿Jace! - Topic
+Format: 48000:24:2
+mtime: 1726853192
+song_end
+song_begin: Oh Lord(MP3_160K).mp3
+Time: 89.232000
+Artist: ﻿Jace! - Topic
+Title: ﻿Oh Lord
+Album: ﻿Jace! - Topic
+Format: 48000:24:2
+mtime: 1726853138
+song_end
+song_begin: Vas(MP3_160K).mp3
+Time: 90.336000
+Artist: ﻿Jagger Finn - Topic
+Title: ﻿Vas
+Album: ﻿Jagger Finn - Topic
+Format: 48000:24:2
+mtime: 1727035754
+song_end
+song_begin: Fuk Tha Clout (feat. Yeat)(MP3_160K).mp3
+Time: 168.408000
+Artist: ﻿KanKan - Topic
+Title: ﻿Fuk Tha Clout (feat. Yeat)
+Album: ﻿KanKan - Topic
+Format: 48000:24:2
+mtime: 1726853108
+song_end
+song_begin: Not Da Same (feat. Yeat)(MP3_160K).mp3
+Time: 230.136000
+Artist: ﻿KanKan - Topic
+Title: ﻿Not Da Same (feat. Yeat)
+Album: ﻿KanKan - Topic
+Format: 48000:24:2
+mtime: 1726853521
+song_end
+song_begin: Nun To Me(MP3_160K).mp3
+Time: 126.888000
+Artist: ﻿KanKan - Topic
+Title: ﻿Nun To Me
+Album: ﻿KanKan - Topic
+Format: 48000:24:2
+mtime: 1726853081
+song_end
+song_begin: Wokeup(MP3_160K).mp3
+Time: 115.368000
+Artist: ﻿KanKan - Topic
+Title: ﻿Wokeup
+Album: ﻿KanKan - Topic
+Format: 48000:24:2
+mtime: 1726853079
+song_end
+song_begin: Bound 2(MP3_160K).mp3
+Time: 229.152000
+Artist: ﻿Kanye West - Topic
+Title: ﻿Bound 2
+Album: ﻿Kanye West - Topic
+Format: 48000:24:2
+mtime: 1726947220
+song_end
+song_begin: overseas(MP3_160K).mp3
+Time: 141.048000
+Artist: ﻿Ken Carson
+Title: ﻿overseas
+Album: ﻿Ken Carson
+Format: 48000:24:2
+mtime: 1727810533
+song_end
+song_begin: ss (Official Audio)(MP3_160K).mp3
+Time: 184.464000
+Artist: ﻿Ken Carson
+Title: ﻿ss (Official Audio)
+Album: ﻿Ken Carson
+Format: 48000:24:2
+mtime: 1727810486
+song_end
+song_begin: Clutch(MP3_160K).mp3
+Time: 131.424000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Clutch
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767812
+song_end
+song_begin: Delinquent(MP3_160K).mp3
+Time: 165.432000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Delinquent
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767741
+song_end
+song_begin: Fashion Habits(MP3_160K).mp3
+Time: 201.696000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Fashion Habits
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767786
+song_end
+song_begin: Fighting My Demons(MP3_160K).mp3
+Time: 150.408000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Fighting My Demons
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726852954
+song_end
+song_begin: Freestyle 2(MP3_160K)_1.mp3
+Time: 138.336000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Freestyle 2
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726852960
+song_end
+song_begin: Freestyle 2(MP3_160K).mp3
+Time: 138.336000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Freestyle 2
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767705
+song_end
+song_begin: Fuk 12(MP3_160K).mp3
+Time: 84.336000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Fuk 12
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767699
+song_end
+song_begin: Hella(MP3_160K).mp3
+Time: 161.328000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Hella
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767784
+song_end
+song_begin: High as Sh_T(MP3_160K).mp3
+Time: 93.432000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿High as Sh!T
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767821
+song_end
+song_begin: i need u(MP3_160K)_1.mp3
+Time: 148.776000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿i need u
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726853009
+song_end
+song_begin: i need u(MP3_160K).mp3
+Time: 148.776000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿i need u
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767687
+song_end
+song_begin: Jennifer_s Body(MP3_160K).mp3
+Time: 158.520000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Jennifer’s Body
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767621
+song_end
+song_begin: Lose It(MP3_160K).mp3
+Time: 140.832000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Lose It
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767624
+song_end
+song_begin: MDMA(MP3_160K).mp3
+Time: 228.336000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿MDMA
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767714
+song_end
+song_begin: Me N My Kup(MP3_160K).mp3
+Time: 234.048000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Me N My Kup
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767654
+song_end
+song_begin: Murda Musik(MP3_160K).mp3
+Time: 176.592000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Murda Musik
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767734
+song_end
+song_begin: Nobody(MP3_160K).mp3
+Time: 130.536000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Nobody
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767680
+song_end
+song_begin: Overtime(MP3_160K).mp3
+Time: 106.632000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Overtime
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767657
+song_end
+song_begin: Paranoid(MP3_160K).mp3
+Time: 127.992000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Paranoid
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767642
+song_end
+song_begin: Rock N Roll(MP3_160K).mp3
+Time: 148.824000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Rock N Roll
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767784
+song_end
+song_begin: Run   Ran(MP3_160K).mp3
+Time: 244.392000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Run + Ran
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767823
+song_end
+song_begin: Shake(MP3_160K).mp3
+Time: 126.072000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Shake
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767810
+song_end
+song_begin: Singapore(MP3_160K).mp3
+Time: 151.584000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Singapore
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767645
+song_end
+song_begin: Teenager Rager(MP3_160K).mp3
+Time: 104.568000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Teenager Rager
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767822
+song_end
+song_begin: The End(MP3_160K).mp3
+Time: 135.432000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿The End
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767745
+song_end
+song_begin: Vampire Hour(MP3_160K).mp3
+Time: 154.416000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Vampire Hour
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726767670
+song_end
+song_begin: Yale(MP3_160K).mp3
+Time: 106.536000
+Artist: ﻿Ken Carson - Topic
+Title: ﻿Yale
+Album: ﻿Ken Carson - Topic
+Format: 48000:24:2
+mtime: 1726852994
+song_end
+song_begin: LANCEY OR LANCEY(MP3_160K).mp3
+Time: 187.896000
+Artist: ﻿Lancey Foux - Topic
+Title: ﻿LANCEY OR LANCEY
+Album: ﻿Lancey Foux - Topic
+Format: 48000:24:2
+mtime: 1726853144
+song_end
+song_begin: Crystal Castles - Vanished(MP3_160K).mp3
+Time: 242.976000
+Artist: ﻿LastGangRadio
+Title: ﻿Crystal Castles - Vanished
+Album: ﻿LastGangRadio
+Format: 48000:24:2
+mtime: 1727646507
+song_end
+song_begin: I LOST EVERYTHING TRYNA BE COOL  _the truth_(MP3_160K).mp3
+Time: 1242.120000
+Artist: ﻿Laylow11
+Title: ﻿I LOST EVERYTHING TRYNA BE COOL  *the truth*
+Album: ﻿Laylow11
+Format: 48000:24:2
+mtime: 1726768750
+song_end
+song_begin: I love freaks(MP3_160K).mp3
+Time: 101.208000
+Artist: ﻿Lijay - Topic
+Title: ﻿I love freaks
+Album: ﻿Lijay - Topic
+Format: 48000:24:2
+mtime: 1726860704
+song_end
+song_begin: 500lbs(MP3_160K).mp3
+Time: 144.408000
+Artist: ﻿Lil Tecca - Topic
+Title: ﻿500lbs
+Album: ﻿Lil Tecca - Topic
+Format: 48000:24:2
+mtime: 1726853160
+song_end
+song_begin: Just Wanna Rock(MP3_160K).mp3
+Time: 123.912000
+Artist: ﻿Lil Uzi Vert
+Title: ﻿Just Wanna Rock
+Album: ﻿Lil Uzi Vert
+Format: 48000:24:2
+mtime: 1727621342
+song_end
+song_begin: XO Tour Llif3(MP3_160K).mp3
+Time: 182.712000
+Artist: ﻿Lil Uzi Vert
+Title: ﻿XO Tour Llif3
+Album: ﻿Lil Uzi Vert
+Format: 48000:24:2
+mtime: 1727646430
+song_end
+song_begin: 20 Min(MP3_160K).mp3
+Time: 220.608000
+Artist: ﻿Lil Uzi Vert - Topic
+Title: ﻿20 Min
+Album: ﻿Lil Uzi Vert - Topic
+Format: 48000:24:2
+mtime: 1726947123
+song_end
+song_begin: NFL(MP3_160K).mp3
+Time: 185.688000
+Artist: ﻿Lil Uzi Vert - Topic
+Title: ﻿NFL
+Album: ﻿Lil Uzi Vert - Topic
+Format: 48000:24:2
+mtime: 1726935484
+song_end
+song_begin: Watch This (ARIZONATEARS Pluggnb Remix)(MP3_160K).mp3
+Time: 163.152000
+Artist: ﻿Lil Uzi Vert, sped up nightcore, & ARIZONATEARS
+Title: ﻿Watch This (ARIZONATEARS Pluggnb Remix)
+Album: ﻿Lil Uzi Vert, sped up nightcore, & ARIZONATEARS
+Format: 48000:24:2
+mtime: 1727621305
+song_end
+song_begin: Faint(MP3_160K).mp3
+Time: 162.120000
+Artist: ﻿Linkin Park
+Title: ﻿Faint
+Album: ﻿Linkin Park
+Format: 48000:24:2
+mtime: 1728167331
+song_end
+song_begin: What I_ve Done(MP3_160K).mp3
+Time: 205.632000
+Artist: ﻿Linkin Park - Topic
+Title: ﻿What I've Done
+Album: ﻿Linkin Park - Topic
+Format: 48000:24:2
+mtime: 1728167241
+song_end
+song_begin: Y NOT_(MP3_160K).mp3
+Time: 148.536000
+Artist: ﻿LUCKI - Topic
+Title: ﻿Y NOT?
+Album: ﻿LUCKI - Topic
+Format: 48000:24:2
+mtime: 1726947187
+song_end
+song_begin: A Heart Like Hers(MP3_160K).mp3
+Time: 241.872000
+Artist: ﻿Mac DeMarco - Topic
+Title: ﻿A Heart Like Hers
+Album: ﻿Mac DeMarco - Topic
+Format: 48000:24:2
+mtime: 1727036913
+song_end
+song_begin: For the First Time(MP3_160K).mp3
+Time: 182.328000
+Artist: ﻿Mac DeMarco - Topic
+Title: ﻿For the First Time
+Album: ﻿Mac DeMarco - Topic
+Format: 48000:24:2
+mtime: 1726605343
+song_end
+song_begin: skychaser - 104.5 Sky FM (Slowed reverb)(MP3_160K).mp3
+Time: 87.432000
+Artist: metaghost1337
+Title: skychaser - 104.5 Sky FM (Slowed+reverb)
+Album: metaghost1337
+Format: 48000:24:2
+mtime: 1701777119
+song_end
+song_begin: Enter Sandman(MP3_160K).mp3
+Time: 331.584000
+Artist: ﻿Metallica
+Title: ﻿Enter Sandman
+Album: ﻿Metallica
+Format: 48000:24:2
+mtime: 1727993538
+song_end
+song_begin: Fade To Black(MP3_160K).mp3
+Time: 417.240000
+Artist: ﻿Metallica
+Title: ﻿Fade To Black
+Album: ﻿Metallica
+Format: 48000:24:2
+mtime: 1728166309
+song_end
+song_begin: For Whom The Bell Tolls(MP3_160K).mp3
+Time: 309.984000
+Artist: ﻿Metallica
+Title: ﻿For Whom The Bell Tolls
+Album: ﻿Metallica
+Format: 48000:24:2
+mtime: 1727993264
+song_end
+song_begin: Fuel(MP3_160K).mp3
+Time: 269.808000
+Artist: ﻿Metallica
+Title: ﻿Fuel
+Album: ﻿Metallica
+Format: 48000:24:2
+mtime: 1728166306
+song_end
+song_begin: Master Of Puppets(MP3_160K).mp3
+Time: 515.400000
+Artist: ﻿Metallica
+Title: ﻿Master Of Puppets
+Album: ﻿Metallica
+Format: 48000:24:2
+mtime: 1728068588
+song_end
+song_begin: Seek _ Destroy(MP3_160K).mp3
+Time: 414.720000
+Artist: ﻿Metallica
+Title: ﻿Seek & Destroy
+Album: ﻿Metallica
+Format: 48000:24:2
+mtime: 1728068701
+song_end
+song_begin: The Unforgiven(MP3_160K).mp3
+Time: 387.144000
+Artist: ﻿Metallica
+Title: ﻿The Unforgiven
+Album: ﻿Metallica
+Format: 48000:24:2
+mtime: 1728166353
+song_end
+song_begin: Whiskey In The Jar(MP3_160K).mp3
+Time: 304.896000
+Artist: ﻿Metallica
+Title: ﻿Whiskey In The Jar
+Album: ﻿Metallica
+Format: 48000:24:2
+mtime: 1728166251
+song_end
+song_begin: The Four Horsemen (Remastered)(MP3_160K).mp3
+Time: 432.552000
+Artist: ﻿Metallica - Topic
+Title: ﻿The Four Horsemen (Remastered)
+Album: ﻿Metallica - Topic
+Format: 48000:24:2
+mtime: 1728068811
+song_end
+song_begin: Mitski - Washing Machine Heart(MP3_160K).mp3
+Time: 128.904000
+Artist: ﻿MitskiVEVO
+Title: ﻿Mitski - Washing Machine Heart
+Album: ﻿MitskiVEVO
+Format: 48000:24:2
+mtime: 1727035840
+song_end
+song_begin: Lady (Hear Me Tonight)(MP3_160K).mp3
+Time: 307.176000
+Artist: ﻿Modjo
+Title: ﻿Lady (Hear Me Tonight)
+Album: ﻿Modjo
+Format: 48000:24:2
+mtime: 1727377641
+song_end
+song_begin: LXNGVX_ VISXGE - DNA _ (SUPER SLOWED   REVERB) [BRAZILIAN PHONK](MP3_160K).mp3
+Time: 114.696000
+Artist: 𝙣𝙖𝙤𝙢𝙞
+Title: LXNGVX, VISXGE - DNA ~ (SUPER SLOWED + REVERB) [BRAZILIAN PHONK]
+Album: 𝙣𝙖𝙤𝙢𝙞
+Format: 48000:24:2
+mtime: 1709454560
+song_end
+song_begin: About A Girl(MP3_160K).mp3
+Time: 168.168000
+Artist: ﻿Nirvana
+Title: ﻿About A Girl
+Album: ﻿Nirvana
+Format: 48000:24:2
+mtime: 1727993479
+song_end
+song_begin: Smells Like Teen Spirit(MP3_160K).mp3
+Time: 301.920000
+Artist: ﻿Nirvana
+Title: ﻿Smells Like Teen Spirit
+Album: ﻿Nirvana
+Format: 48000:24:2
+mtime: 1727479809
+song_end
+song_begin: MC ORSEN - WARNING (SPEED UP) EXTENDED MIX - Bass Boosted - Rocky TikTok Edit(MP3_160K).mp3
+Time: 252.336000
+Artist: OlderBrotherAdvice
+Title: MC ORSEN - WARNING (SPEED UP) EXTENDED MIX - Bass Boosted - Rocky TikTok Edit
+Album: OlderBrotherAdvice
+Format: 48000:24:2
+mtime: 1709932811
+song_end
+song_begin: PASTEL GHOST _ DARK BEACH(MP3_160K).mp3
+Time: 222.024000
+Artist: ﻿PASTEL GHOST
+Title: ﻿PASTEL GHOST ~ DARK BEACH
+Album: ﻿PASTEL GHOST
+Format: 48000:24:2
+mtime: 1727646500
+song_end
+song_begin: Magnolia(MP3_160K).mp3
+Time: 181.824000
+Artist: ﻿Playboi Carti
+Title: ﻿Magnolia
+Album: ﻿Playboi Carti
+Format: 48000:24:2
+mtime: 1726947226
+song_end
+song_begin: Playboi Carti - FlatBed Freestyle (Official Audio)(MP3_160K).mp3
+Time: 194.112000
+Artist: ﻿Playboi Carti
+Title: ﻿Playboi Carti - FlatBed Freestyle (Official Audio)
+Album: ﻿Playboi Carti
+Format: 48000:24:2
+mtime: 1727900927
+song_end
+song_begin: Vamp Anthem(MP3_160K).mp3
+Time: 124.104000
+Artist: ﻿Playboi Carti
+Title: ﻿Vamp Anthem
+Album: ﻿Playboi Carti
+Format: 48000:24:2
+mtime: 1727965354
+song_end
+song_begin: Control(MP3_160K).mp3
+Time: 197.808000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Control
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768521
+song_end
+song_begin: Die4Guy(MP3_160K).mp3
+Time: 131.256000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Die4Guy
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768562
+song_end
+song_begin: F33l Lik3 Dyin(MP3_160K).mp3
+Time: 204.456000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿F33l Lik3 Dyin
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768562
+song_end
+song_begin: ILoveUIHateU(MP3_160K).mp3
+Time: 135.144000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿ILoveUIHateU
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768552
+song_end
+song_begin: King Vamp(MP3_160K).mp3
+Time: 186.792000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿King Vamp
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768547
+song_end
+song_begin: Location(MP3_160K).mp3
+Time: 168.792000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Location
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726852998
+song_end
+song_begin: Long Time (Intro)(MP3_160K).mp3
+Time: 211.776000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Long Time (Intro)
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726935148
+song_end
+song_begin: Meh(MP3_160K).mp3
+Time: 118.512000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Meh
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768510
+song_end
+song_begin: New N3on(MP3_160K).mp3
+Time: 116.376000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿New N3on
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768519
+song_end
+song_begin: New Tank(MP3_160K).mp3
+Time: 89.760000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿New Tank
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768499
+song_end
+song_begin: No Sl33p(MP3_160K).mp3
+Time: 88.560000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿No Sl33p
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768503
+song_end
+song_begin: On That Time(MP3_160K).mp3
+Time: 102.432000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿On That Time
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768528
+song_end
+song_begin: Over(MP3_160K).mp3
+Time: 166.248000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Over
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768556
+song_end
+song_begin: Punk Monk(MP3_160K).mp3
+Time: 229.704000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Punk Monk
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768543
+song_end
+song_begin: R.I.P(MP3_160K).mp3
+Time: 192.048000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿R.I.P.
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726935483
+song_end
+song_begin: Rockstar Made(MP3_160K).mp3
+Time: 193.584000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Rockstar Made
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768496
+song_end
+song_begin: Sky(MP3_160K).mp3
+Time: 193.248000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Sky
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726852959
+song_end
+song_begin: Stop Breathing(MP3_160K).mp3
+Time: 218.952000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Stop Breathing
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768504
+song_end
+song_begin: Teen X(MP3_160K).mp3
+Time: 206.016000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿Teen X
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726768521
+song_end
+song_begin: wokeuplikethis_(MP3_160K).mp3
+Time: 235.536000
+Artist: ﻿Playboi Carti - Topic
+Title: ﻿wokeuplikethis*
+Album: ﻿Playboi Carti - Topic
+Format: 48000:24:2
+mtime: 1726935490
+song_end
+song_begin: Creep(MP3_160K).mp3
+Time: 238.656000
+Artist: ﻿Radiohead
+Title: ﻿Creep
+Album: ﻿Radiohead
+Format: 48000:24:2
+mtime: 1727992969
+song_end
+song_begin: Kite (Tana Version)(MP3_160K).mp3
+Time: 129.096000
+Artist: ﻿Rellaa - Topic
+Title: ﻿Kite (Tana Version)
+Album: ﻿Rellaa - Topic
+Format: 48000:24:2
+mtime: 1726853542
+song_end
+song_begin: Ricky Montgomery - Line Without a Hook (Official Lyric Video)(MP3_160K).mp3
+Time: 249.648000
+Artist: ﻿Ricky Montgomery
+Title: ﻿Ricky Montgomery - Line Without a Hook (Official Lyric Video)
+Album: ﻿Ricky Montgomery
+Format: 48000:24:2
+mtime: 1727035962
+song_end
+song_begin: Prom Night(MP3_160K).mp3
+Time: 145.920000
+Artist: ﻿Riovaz - Topic
+Title: ﻿Prom Night
+Album: ﻿Riovaz - Topic
+Format: 48000:24:2
+mtime: 1727036903
+song_end
+song_begin: Trxy - realize(MP3_160K).mp3
+Time: 115.464000
+Artist: ﻿Roxas
+Title: ﻿Trxy - realize
+Album: ﻿Roxas
+Format: 48000:24:2
+mtime: 1726074323
+song_end
+song_begin: Surf Curse - Freaks [Lyrics](MP3_160K).mp3
+Time: 145.752000
+Artist: ﻿Røzco
+Title: ﻿Surf Curse - Freaks [Lyrics]
+Album: ﻿Røzco
+Format: 48000:24:2
+mtime: 1727035724
+song_end
+song_begin: apocalypse - cigarettes after sex (slowed)(MP3_160K).mp3
+Time: 331.584000
+Artist: ﻿s l o w l y u w u
+Title: ﻿apocalypse - cigarettes after sex (slowed)
+Album: ﻿s l o w l y u w u
+Format: 48000:24:2
+mtime: 1727036331
+song_end
+song_begin: Nuketown(MP3_160K).mp3
+Time: 166.416000
+Artist: ﻿Ski Mask the Slump God - Topic
+Title: ﻿Nuketown
+Album: ﻿Ski Mask the Slump God - Topic
+Format: 48000:24:2
+mtime: 1726947113
+song_end
+song_begin: Take A Step Back(MP3_160K).mp3
+Time: 210.408000
+Artist: ﻿Ski Mask the Slump God - Topic
+Title: ﻿Take A Step Back
+Album: ﻿Ski Mask the Slump God - Topic
+Format: 48000:24:2
+mtime: 1726947173
+song_end
+song_begin: TV Girl - _Birds Don_t Sing_(MP3_160K).mp3
+Time: 209.088000
+Artist: ﻿Sleepy Fleecy
+Title: ﻿TV Girl - "Birds Don't Sing"
+Album: ﻿Sleepy Fleecy
+Format: 48000:24:2
+mtime: 1727295746
+song_end
+song_begin: Before I Forget(MP3_160K)_1.mp3
+Time: 264.384000
+Artist: ﻿Slipknot
+Title: ﻿Before I Forget
+Album: ﻿Slipknot
+Format: 48000:24:2
+mtime: 1728166589
+song_end
+song_begin: Duality(MP3_160K).mp3
+Time: 252.624000
+Artist: ﻿Slipknot
+Title: ﻿Duality
+Album: ﻿Slipknot
+Format: 48000:24:2
+mtime: 1727993395
+song_end
+song_begin: Psychosocial(MP3_160K).mp3
+Time: 283.416000
+Artist: ﻿Slipknot
+Title: ﻿Psychosocial
+Album: ﻿Slipknot
+Format: 48000:24:2
+mtime: 1727993788
+song_end
+song_begin: Wait and Bleed(MP3_160K).mp3
+Time: 147.840000
+Artist: ﻿Slipknot - Topic
+Title: ﻿Wait and Bleed
+Album: ﻿Slipknot - Topic
+Format: 48000:24:2
+mtime: 1728166493
+song_end
+song_begin: Heart Like Yours - Willamette Stone Lyrics(MP3_160K).mp3
+Time: 198.720000
+Artist: ﻿Space
+Title: ﻿Heart Like Yours - Willamette Stone Lyrics
+Album: ﻿Space
+Format: 48000:24:2
+mtime: 1727036952
+song_end
+song_begin: Modjo - Lady (Hear Me Tonight)(Speed up)(MP3_160K).mp3
+Time: 236.472000
+Artist: Speed up phonk
+Title: Modjo - Lady (Hear Me Tonight)(Speed up)
+Album: Speed up phonk
+Format: 48000:24:2
+mtime: 1701153579
+song_end
+song_begin: Music Sounds Better With You (Radio Edit)(MP3_160K).mp3
+Time: 260.928000
+Artist: ﻿Stardust
+Title: ﻿Music Sounds Better With You (Radio Edit)
+Album: ﻿Stardust
+Format: 48000:24:2
+mtime: 1727378011
+song_end
+song_begin: Steve Lacy - Bad Habit (Official Video)(MP3_160K).mp3
+Time: 242.520000
+Artist: ﻿SteveLacyVEVO
+Title: ﻿Steve Lacy - Bad Habit (Official Video)
+Album: ﻿SteveLacyVEVO
+Format: 48000:24:2
+mtime: 1727646534
+song_end
+song_begin: Back 2 Da Basics(MP3_160K).mp3
+Time: 140.016000
+Artist: ﻿Summrs - Topic
+Title: ﻿Back 2 Da Basics
+Album: ﻿Summrs - Topic
+Format: 48000:24:2
+mtime: 1726853163
+song_end
+song_begin: Youngest Daughter(MP3_160K).mp3
+Time: 249.528000
+Artist: ﻿Superheaven
+Title: ﻿Youngest Daughter
+Album: ﻿Superheaven
+Format: 48000:24:2
+mtime: 1727993284
+song_end
+song_begin: Chop Suey_(MP3_160K).mp3
+Time: 210.240000
+Artist: ﻿System Of A Down
+Title: ﻿Chop Suey!
+Album: ﻿System Of A Down
+Format: 48000:24:2
+mtime: 1728167405
+song_end
+song_begin: Toxicity(MP3_160K).mp3
+Time: 218.952000
+Artist: ﻿System Of A Down
+Title: ﻿Toxicity
+Album: ﻿System Of A Down
+Format: 48000:24:2
+mtime: 1728167440
+song_end
+song_begin: Tame Impala - Let It Happen (Official Audio)(MP3_160K).mp3
+Time: 474.264000
+Artist: ﻿Tame Impala
+Title: ﻿Tame Impala - Let It Happen (Official Audio)
+Album: ﻿Tame Impala
+Format: 48000:24:2
+mtime: 1727003120
+song_end
+song_begin: Half Full Glass Of Wine (Live)(MP3_160K).mp3
+Time: 494.232000
+Artist: ﻿Tame Impala - Topic
+Title: ﻿Half Full Glass Of Wine (Live)
+Album: ﻿Tame Impala - Topic
+Format: 48000:24:2
+mtime: 1727005535
+song_end
+song_begin: Tame Impala - Alter Ego (Official Audio)(MP3_160K).mp3
+Time: 288.648000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Alter Ego (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003843
+song_end
+song_begin: Tame Impala - Apocalypse Dreams (Official Audio)(MP3_160K).mp3
+Time: 357.960000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Apocalypse Dreams (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003113
+song_end
+song_begin: Tame Impala - Borderline (Official Audio)(MP3_160K).mp3
+Time: 237.816000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Borderline (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003746
+song_end
+song_begin: Tame Impala - Breathe Deeper (Official Audio)(MP3_160K).mp3
+Time: 372.672000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Breathe Deeper (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003796
+song_end
+song_begin: Tame Impala - Desire Be Desire Go (Audio)(MP3_160K).mp3
+Time: 267.168000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Desire Be Desire Go (Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003818
+song_end
+song_begin: Tame Impala - Elephant (Official Audio)(MP3_160K).mp3
+Time: 212.232000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Elephant (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727005535
+song_end
+song_begin: Tame Impala - Feels Like We Only Go Backwards (Official Audio)(MP3_160K).mp3
+Time: 194.016000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Feels Like We Only Go Backwards (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003075
+song_end
+song_begin: Tame Impala - It Is Not Meant to Be (Official Audio)(MP3_160K).mp3
+Time: 322.776000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - It Is Not Meant to Be (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003782
+song_end
+song_begin: Tame Impala - Mind Mischief (Official Audio)(MP3_160K).mp3
+Time: 274.056000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Mind Mischief (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003124
+song_end
+song_begin: Tame Impala - Music to Walk Home By (Official Audio)(MP3_160K).mp3
+Time: 313.248000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Music to Walk Home By (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727004098
+song_end
+song_begin: Tame Impala - Nangs (Audio)(MP3_160K).mp3
+Time: 108.552000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Nangs (Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003132
+song_end
+song_begin: Tame Impala - New Person_ Same Old Mistakes (Audio)(MP3_160K).mp3
+Time: 364.272000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - New Person, Same Old Mistakes (Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727007753
+song_end
+song_begin: Tame Impala - On Track (Official Audio)(MP3_160K).mp3
+Time: 301.776000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - On Track (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727007753
+song_end
+song_begin: Tame Impala - Posthumous Forgiveness (Official Audio)(MP3_160K).mp3
+Time: 366.096000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Posthumous Forgiveness (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003796
+song_end
+song_begin: Tame Impala - Runway Houses City Clouds (Official Audio)(MP3_160K).mp3
+Time: 436.080000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Runway Houses City Clouds (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727005535
+song_end
+song_begin: Tame Impala - Solitude Is Bliss (Official Audio)(MP3_160K).mp3
+Time: 236.880000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Solitude Is Bliss (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727004098
+song_end
+song_begin: Tame Impala - The Less I Know The Better (Audio)(MP3_160K)_1.mp3
+Time: 217.368000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - The Less I Know The Better (Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003748
+song_end
+song_begin: Tame Impala - The Less I Know The Better (Audio)(MP3_160K).mp3
+Time: 217.368000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - The Less I Know The Better (Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1718179195
+song_end
+song_begin: Tame Impala - The Moment (Audio)(MP3_160K).mp3
+Time: 256.464000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - The Moment (Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003747
+song_end
+song_begin: Tame Impala - Tomorrow_s Dust (Official Audio)(MP3_160K).mp3
+Time: 326.856000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Tomorrow's Dust (Official Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727004098
+song_end
+song_begin: Tame Impala - Yes I_m Changing (Audio)(MP3_160K).mp3
+Time: 271.704000
+Artist: ﻿tameimpalaVEVO
+Title: ﻿Tame Impala - Yes I'm Changing (Audio)
+Album: ﻿tameimpalaVEVO
+Format: 48000:24:2
+mtime: 1727003842
+song_end
+song_begin: as i walk thru the path(MP3_160K).mp3
+Time: 116.376000
+Artist: ﻿tana - Topic
+Title: ﻿as i walk thru the path
+Album: ﻿tana - Topic
+Format: 48000:24:2
+mtime: 1726853121
+song_end
+song_begin: fear no man(MP3_160K).mp3
+Time: 116.256000
+Artist: ﻿tana - Topic
+Title: ﻿fear no man
+Album: ﻿tana - Topic
+Format: 48000:24:2
+mtime: 1726853116
+song_end
+song_begin: gon b ok(MP3_160K).mp3
+Time: 147.072000
+Artist: ﻿tana - Topic
+Title: ﻿gon b ok
+Album: ﻿tana - Topic
+Format: 48000:24:2
+mtime: 1726853522
+song_end
+song_begin: hell yeah(MP3_160K).mp3
+Time: 118.752000
+Artist: ﻿tana - Topic
+Title: ﻿hell yeah
+Album: ﻿tana - Topic
+Format: 48000:24:2
+mtime: 1726853178
+song_end
+song_begin: swaggin like this(MP3_160K).mp3
+Time: 144.216000
+Artist: ﻿tana - Topic
+Title: ﻿swaggin like this
+Album: ﻿tana - Topic
+Format: 48000:24:2
+mtime: 1726853522
+song_end
+song_begin: The Drums - Money (Official Audio)(MP3_160K).mp3
+Time: 235.056000
+Artist: ﻿The Drums
+Title: ﻿The Drums - Money (Official Audio)
+Album: ﻿The Drums
+Format: 48000:24:2
+mtime: 1727035897
+song_end
+song_begin: The Walters -- I Love You So(MP3_160K).mp3
+Time: 160.032000
+Artist: ﻿The Walters
+Title: ﻿The Walters -- I Love You So
+Album: ﻿The Walters
+Format: 48000:24:2
+mtime: 1727035779
+song_end
+song_begin: Die For You(MP3_160K).mp3
+Time: 260.255000
+Artist: ﻿The Weeknd - Topic
+Title: ﻿Die For You
+Album: ﻿The Weeknd - Topic
+Format: 48000:24:2
+mtime: 1727036935
+song_end
+song_begin: Popular (From The Idol Vol. 1 (Music from the HBO Original Series))(MP3_160K).mp3
+Time: 215.472000
+Artist: ﻿The Weeknd & Madonna
+Title: ﻿Popular (From The Idol Vol. 1 (Music from the HBO Original Series))
+Album: ﻿The Weeknd & Madonna
+Format: 48000:24:2
+mtime: 1727811809
+song_end
+song_begin: Animal I Have Become(MP3_160K).mp3
+Time: 231.408000
+Artist: ﻿Three Days Grace
+Title: ﻿Animal I Have Become
+Album: ﻿Three Days Grace
+Format: 48000:24:2
+mtime: 1727993342
+song_end
+song_begin: Break(MP3_160K).mp3
+Time: 193.128000
+Artist: ﻿Three Days Grace
+Title: ﻿Break
+Album: ﻿Three Days Grace
+Format: 48000:24:2
+mtime: 1728166961
+song_end
+song_begin: I Hate Everything About You(MP3_160K).mp3
+Time: 231.480000
+Artist: ﻿Three Days Grace
+Title: ﻿I Hate Everything About You
+Album: ﻿Three Days Grace
+Format: 48000:24:2
+mtime: 1728166748
+song_end
+song_begin: It_s All Over(MP3_160K).mp3
+Time: 249.336000
+Artist: ﻿Three Days Grace
+Title: ﻿It's All Over
+Album: ﻿Three Days Grace
+Format: 48000:24:2
+mtime: 1728166897
+song_end
+song_begin: Never Too Late(MP3_160K).mp3
+Time: 209.352000
+Artist: ﻿Three Days Grace
+Title: ﻿Never Too Late
+Album: ﻿Three Days Grace
+Format: 48000:24:2
+mtime: 1728166770
+song_end
+song_begin: Pain(MP3_160K).mp3
+Time: 202.992000
+Artist: ﻿Three Days Grace
+Title: ﻿Pain
+Album: ﻿Three Days Grace
+Format: 48000:24:2
+mtime: 1728166816
+song_end
+song_begin: Painkiller(MP3_160K).mp3
+Time: 179.160000
+Artist: ﻿Three Days Grace
+Title: ﻿Painkiller
+Album: ﻿Three Days Grace
+Format: 48000:24:2
+mtime: 1727993806
+song_end
+song_begin: Riot(MP3_160K).mp3
+Time: 207.600000
+Artist: ﻿Three Days Grace
+Title: ﻿Riot
+Album: ﻿Three Days Grace
+Format: 48000:24:2
+mtime: 1728166732
+song_end
+song_begin: Time of Dying(MP3_160K).mp3
+Time: 186.384000
+Artist: ﻿Three Days Grace
+Title: ﻿Time of Dying
+Album: ﻿Three Days Grace
+Format: 48000:24:2
+mtime: 1728166846
+song_end
+song_begin: ThxSoMch - SPIT IN MY FACE_ (Official Audio)(MP3_160K).mp3
+Time: 147.864000
+Artist: ﻿ThxSoMch
+Title: ﻿ThxSoMch - SPIT IN MY FACE! (Official Audio)
+Album: ﻿ThxSoMch
+Format: 48000:24:2
+mtime: 1718179273
+song_end
+song_begin: yeat - taliban (sped up to perfection)(MP3_160K).mp3
+Time: 155.016000
+Artist: ﻿toto
+Title: ﻿yeat - taliban (sped up to perfection)
+Album: ﻿toto
+Format: 48000:24:2
+mtime: 1716386037
+song_end
+song_begin: goosebumps(MP3_160K).mp3
+Time: 243.840000
+Artist: ﻿Travis Scott
+Title: ﻿goosebumps
+Album: ﻿Travis Scott
+Format: 48000:24:2
+mtime: 1727811910
+song_end
+song_begin: HIGHEST IN THE ROOM(MP3_160K).mp3
+Time: 175.728000
+Artist: ﻿Travis Scott
+Title: ﻿HIGHEST IN THE ROOM
+Album: ﻿Travis Scott
+Format: 48000:24:2
+mtime: 1727379252
+song_end
+song_begin: MY EYES(MP3_160K).mp3
+Time: 251.256000
+Artist: ﻿Travis Scott
+Title: ﻿MY EYES
+Album: ﻿Travis Scott
+Format: 48000:24:2
+mtime: 1727812025
+song_end
+song_begin: MELTDOWN(MP3_160K).mp3
+Time: 246.144000
+Artist: ﻿Travis Scott - Topic
+Title: ﻿MELTDOWN
+Album: ﻿Travis Scott - Topic
+Format: 48000:24:2
+mtime: 1726947163
+song_end
+song_begin: Dark Knight Dummo (feat. Travis Scott)(MP3_160K).mp3
+Time: 256.176000
+Artist: ﻿Trippie Redd - Topic
+Title: ﻿Dark Knight Dummo (feat. Travis Scott)
+Album: ﻿Trippie Redd - Topic
+Format: 48000:24:2
+mtime: 1726947131
+song_end
+song_begin: The Grinch(MP3_160K).mp3
+Time: 91.296000
+Artist: ﻿Trippie Redd - Topic
+Title: ﻿The Grinch
+Album: ﻿Trippie Redd - Topic
+Format: 48000:24:2
+mtime: 1726935508
+song_end
+song_begin: Cigarettes out the Window(MP3_160K).mp3
+Time: 198.984000
+Artist: ﻿TV Girl - Topic
+Title: ﻿Cigarettes out the Window
+Album: ﻿TV Girl - Topic
+Format: 48000:24:2
+mtime: 1727277785
+song_end
+song_begin: Hate Yourself(MP3_160K).mp3
+Time: 213.768000
+Artist: ﻿TV Girl - Topic
+Title: ﻿Hate Yourself
+Album: ﻿TV Girl - Topic
+Format: 48000:24:2
+mtime: 1727295769
+song_end
+song_begin: Lonely Girls(MP3_160K).mp3
+Time: 175.512000
+Artist: ﻿TV Girl - Topic
+Title: ﻿Lonely Girls
+Album: ﻿TV Girl - Topic
+Format: 48000:24:2
+mtime: 1727278411
+song_end
+song_begin: Louise(MP3_160K).mp3
+Time: 194.472000
+Artist: ﻿TV Girl - Topic
+Title: ﻿Louise
+Album: ﻿TV Girl - Topic
+Format: 48000:24:2
+mtime: 1727277868
+song_end
+song_begin: Lovers Rock(MP3_160K).mp3
+Time: 213.936000
+Artist: ﻿TV Girl - Topic
+Title: ﻿Lovers Rock
+Album: ﻿TV Girl - Topic
+Format: 48000:24:2
+mtime: 1727277789
+song_end
+song_begin: My Girlfriend(MP3_160K).mp3
+Time: 248.232000
+Artist: ﻿TV Girl - Topic
+Title: ﻿My Girlfriend
+Album: ﻿TV Girl - Topic
+Format: 48000:24:2
+mtime: 1727277840
+song_end
+song_begin: Not Allowed(MP3_160K).mp3
+Time: 167.880000
+Artist: ﻿TV Girl - Topic
+Title: ﻿Not Allowed
+Album: ﻿TV Girl - Topic
+Format: 48000:24:2
+mtime: 1727277784
+song_end
+song_begin: Pretty Boy(MP3_160K).mp3
+Time: 166.008000
+Artist: ﻿TV Girl - Topic
+Title: ﻿Pretty Boy
+Album: ﻿TV Girl - Topic
+Format: 48000:24:2
+mtime: 1727295764
+song_end
+song_begin: Safeword(MP3_160K).mp3
+Time: 216.768000
+Artist: ﻿TV Girl - Topic
+Title: ﻿Safeword
+Album: ﻿TV Girl - Topic
+Format: 48000:24:2
+mtime: 1727277828
+song_end
+song_begin: Song About Me(MP3_160K).mp3
+Time: 243.744000
+Artist: ﻿TV Girl - Topic
+Title: ﻿Song About Me
+Album: ﻿TV Girl - Topic
+Format: 48000:24:2
+mtime: 1727277832
+song_end
+song_begin: Till You Tell Me to Leave(MP3_160K).mp3
+Time: 206.640000
+Artist: ﻿TV Girl - Topic
+Title: ﻿Till You Tell Me to Leave
+Album: ﻿TV Girl - Topic
+Format: 48000:24:2
+mtime: 1727278411
+song_end
+song_begin: Young - Vacations (Official Lyric Video)(MP3_160K).mp3
+Time: 189.168000
+Artist: ﻿VACATIONS
+Title: ﻿Young - Vacations (Official Lyric Video)
+Album: ﻿VACATIONS
+Format: 48000:24:2
+mtime: 1727035913
+song_end
+song_begin: Alien Blues(MP3_160K).mp3
+Time: 155.952000
+Artist: ﻿Vundabar - Topic
+Title: ﻿Alien Blues
+Album: ﻿Vundabar - Topic
+Format: 48000:24:2
+mtime: 1727036906
+song_end
+song_begin: bigger thën everything(MP3_160K).mp3
+Time: 218.280000
+Artist: ﻿Yeat - Topic
+Title: ﻿bigger thën everything
+Album: ﻿Yeat - Topic
+Format: 48000:24:2
+mtime: 1726947161
+song_end
+song_begin: Luv monëy(MP3_160K).mp3
+Time: 214.344000
+Artist: ﻿Yeat - Topic
+Title: ﻿Luv monëy
+Album: ﻿Yeat - Topic
+Format: 48000:24:2
+mtime: 1726853152
+song_end
+song_begin: My wrist(MP3_160K).mp3
+Time: 190.152000
+Artist: ﻿Yeat - Topic
+Title: ﻿My wrist
+Album: ﻿Yeat - Topic
+Format: 48000:24:2
+mtime: 1726853147
+song_end
+song_begin: Out thë way(MP3_160K).mp3
+Time: 150.264000
+Artist: ﻿Yeat - Topic
+Title: ﻿Out thë way
+Album: ﻿Yeat - Topic
+Format: 48000:24:2
+mtime: 1726853169
+song_end
+song_begin: EA (feat. 21 Savage)(MP3_160K).mp3
+Time: 227.184000
+Artist: ﻿Young Nudy
+Title: ﻿EA (feat. 21 Savage)
+Album: ﻿Young Nudy
+Format: 48000:24:2
+mtime: 1727965252
+song_end

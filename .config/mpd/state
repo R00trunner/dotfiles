@@ -1,0 +1,58 @@
+sw_volume: 100
+audio_device_state:1:My Pulse Output
+state: pause
+current: 39
+time: 117.467000
+random: 1
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:20 Min(MP3_160K).mp3
+1:Fuel(MP3_160K).mp3
+2:Like That(MP3_160K).mp3
+3:Sky(MP3_160K).mp3
+4:500lbs(MP3_160K).mp3
+5:goosebumps(MP3_160K).mp3
+6:Location(MP3_160K).mp3
+7:Smells Like Teen Spirit(MP3_160K).mp3
+8:About A Girl(MP3_160K).mp3
+9:Hells Bells(MP3_160K).mp3
+10:Long Time (Intro)(MP3_160K).mp3
+11:ss (Official Audio)(MP3_160K).mp3
+12:Back In Black(MP3_160K).mp3
+13:HIGHEST IN THE ROOM(MP3_160K).mp3
+14:Magnolia(MP3_160K).mp3
+15:Sweet Child O_ Mine(MP3_160K).mp3
+16:Before I Forget(MP3_160K)_1.mp3
+17:Highway to Hell(MP3_160K).mp3
+18:Never Too Late(MP3_160K).mp3
+19:The Four Horsemen (Remastered)(MP3_160K).mp3
+20:Bound 2(MP3_160K).mp3
+21:I Hate Everything About You(MP3_160K).mp3
+22:New Tank(MP3_160K).mp3
+23:The Grinch(MP3_160K).mp3
+24:Brain Stew(MP3_160K).mp3
+25:i need u(MP3_160K).mp3
+26:NOSTYLIST(MP3_160K)_1.mp3
+27:The Trooper (2015 Remaster)(MP3_160K).mp3
+28:Control(MP3_160K).mp3
+29:Jealous(MP3_160K).mp3
+30:overseas(MP3_160K).mp3
+31:Thunderstruck(MP3_160K).mp3
+32:Duality(MP3_160K).mp3
+33:Jennifer_s Body(MP3_160K).mp3
+34:Playboi Carti - FlatBed Freestyle (Official Audio)(MP3_160K).mp3
+35:Wait and Bleed(MP3_160K).mp3
+36:Everlong(MP3_160K).mp3
+37:Just Wanna Rock(MP3_160K).mp3
+38:R.I.P(MP3_160K).mp3
+39:wokeuplikethis_(MP3_160K).mp3
+40:Fade To Black(MP3_160K).mp3
+41:LANCEY OR LANCEY(MP3_160K).mp3
+42:R U Mine_(MP3_160K).mp3
+43:Yale(MP3_160K).mp3
+playlist_end

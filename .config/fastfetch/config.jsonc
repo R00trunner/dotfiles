@@ -1,0 +1,27 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "modules": [
+    "host",
+    "datetime",
+    "os",
+    "kernel",
+    "shell",
+    "break",
+    "de",
+    "wm",
+    "icons",
+    "terminal",
+    "uptime",
+    "media",
+    "break",
+    "cpu",
+    "gpu",
+    "memory",
+    "swap",
+    "disk",
+    "display",
+    "battery",
+    "break",
+    "colors"
+  ]
+}
